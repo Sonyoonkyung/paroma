@@ -43,7 +43,7 @@
 	clear: both;
 	content: "";
 }
-@mixin blind_txt {
+@mixin blind {
 	text-indent:-2000em;
 	font-size:1px;
 	overflow:hidden;
